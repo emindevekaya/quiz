@@ -1,0 +1,34 @@
+[
+  {
+    "image": "vagrenen/hundloka.png",
+    "name": "Hundloka"
+  },
+  {
+    "image": "vagrenen/skogsnava.png",
+    "name": "Skogsnäva"
+  },
+  {
+    "image": "vagrenen/smorblomma.png",
+    "name": "Smörblomma"
+  },
+  {
+    "image": "vagrenen/renfana.png",
+    "name": "Renfana"
+  },
+  {
+    "image": "vagrenen/rodblara.png",
+    "name": "Rödblära"
+  },
+  {
+    "image": "vagrenen/rodsvingel.png",
+    "name": "Rödsvingel"
+  },
+  {
+    "image": "vagrenen/gulvial.png",
+    "name": "Gulvial"
+  },
+  {
+    "image": "vagrenen/baldersbra.png",
+    "name": "Baldersbrå"
+  }
+]

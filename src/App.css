@@ -1,0 +1,52 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.theme-container {
+  display: flex;
+  gap: 2rem;
+}
+
+.quiz-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5rem;
+}
+
+.answer-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.quiz-image {
+  max-height: 24rem;
+}
+
+.count-container {
+  display: flex;
+  gap: 5rem;
+}
+
+.answer {
+  font-weight: bold;
+  font-size: larger;
+  cursor: pointer;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.5); }
+  100% { transform: scale(1); }
+}
+
+@media (min-width: 768px) {
+  .answer-container {
+    display: flex;
+    gap: 5rem;
+    flex-direction: row;
+  }
+}

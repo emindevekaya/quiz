@@ -1,0 +1,34 @@
+  [
+  {
+    "image": "cartoon/BugsBunny.png",
+    "name": "Bugs Bunny"
+  },
+  {
+    "image": "cartoon/CharlieBrown.png",
+    "name": "Charlie Brown"
+  },
+  {
+    "image": "cartoon/DaffyDuck.png",
+    "name": "Daffy Duck"
+  },
+  {
+    "image": "cartoon/Goofy.png",
+    "name": "Goofy"
+  },
+  {
+    "image": "cartoon/HomerSimpson.png",
+    "name": "Homer Simpson"
+  },
+  {
+    "image": "cartoon/MickeyMouse.png",
+    "name": "Mickey Mouse"
+  },
+  {
+    "image": "cartoon/PinkPanther.png",
+    "name": "Pink Panther"
+  },
+  {
+    "image": "cartoon/Snoopy.png",
+    "name": "Snoopy"
+  }
+]
