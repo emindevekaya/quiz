@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import cartoonData from "../json/cartoon";
+import faglarData from "../json/faglar";
 import vagrenenData from "../json/vagrenen";
 import "./App.css";
 const images = require.context("../images/", true);
@@ -40,6 +41,8 @@ function App() {
       return cartoonData;
     } else if (currentTheme === "vagrenen") {
       return vagrenenData;
+    } else if (currentTheme === "faglar") {
+      return faglarData;
     }
     return null;
   }
@@ -107,6 +110,12 @@ function App() {
             <input type="radio" id="vagrenen" value="vagrenen" name="theme" />
             <label htmlFor="vagrenen" className="label-inline">
               Vägrenen
+            </label>
+          </div>
+          <div>
+            <input type="radio" id="faglar" value="faglar" name="theme" />
+            <label htmlFor="faglar" className="label-inline">
+              Fåglar
             </label>
           </div>
         </div>

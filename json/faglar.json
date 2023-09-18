@@ -1,0 +1,54 @@
+[
+  {
+    "image": "faglar/fasan.png",
+    "name": "Fasan"
+  },
+  {
+    "image": "faglar/grasparv.png",
+    "name": "Gråsparv"
+  },
+  {
+    "image": "faglar/kaja.png",
+    "name": "Kaja"
+  },
+  {
+    "image": "faglar/korp.png",
+    "name": "Korp"
+  },
+  {
+    "image": "faglar/kraka.png",
+    "name": "Kråka"
+  },
+  {
+    "image": "faglar/ladusvala.png",
+    "name": "Ladusvala"
+  },
+  {
+    "image": "faglar/lavskrika.png",
+    "name": "Lavskrika"
+  },
+  {
+    "image": "faglar/notkraka.png",
+    "name": "Nötkråka"
+  },
+  {
+    "image": "faglar/notskrika.png",
+    "name": "Nötskrika"
+  },
+  {
+    "image": "faglar/raka.png",
+    "name": "Råka"
+  },
+  {
+    "image": "faglar/skata.png",
+    "name": "Skata"
+  },
+  {
+    "image": "faglar/skrattmas.png",
+    "name": "Skrattmås"
+  },
+  {
+    "image": "faglar/tamduva.png",
+    "name": "Tamduva"
+  }
+]
